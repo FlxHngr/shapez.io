@@ -552,7 +552,7 @@ buildings:
     reader:
         default:
             name: Fließbandkontrolle
-            description: Misst den gemittelten Durchsatz des Fließbandes. Gibt zuätzlich den
+            description: Misst den gemittelten Durchsatz des Fließbandes. Gibt zusätzlich den
                 zuletzt passierten Gegenstand auf der Wires-Ebene aus (sobald
                 freigeschaltet).
     analyzer:
